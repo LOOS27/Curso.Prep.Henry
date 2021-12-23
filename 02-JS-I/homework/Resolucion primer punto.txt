@@ -1,0 +1,5 @@
+Las variables en Javascripti son un espacio reservado en la memoria para almacenar datos
+Los strings son un tipo de datos utilizados en Javascript, y corresponden a palabras, simplemente palabras, un string es una palabra.
+Las funciones en Javascript corresponden a una porcion de codigo, ejecuta una porcion de codigo, entendido esto como un conjunto de instrucciones para hacer algo, se ingresa un dato, se procede a hacer algo con ese dato ingresado y luego, la misma, retorna algo (otro dato)
+La estructura if, es una condicion , si se cumple la condicion sucede una cosa y si no se cumple sucede otra cosa...es una estructura de control.
+Los valores booleanos son aquellos que devuelven true o false
