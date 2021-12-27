@@ -1,0 +1,4 @@
+For : la declaracion de un for se trata de un ciclo que se repite hasta que una condicion (que lleva entre parentesis) se evalue como false.
+`&&`, `||`, `!` : son operadores logicos, el operador logico && es equivalente a and ("y"), este retorna true si "todas" las exprexiones unidas por este operador son verdaderas, caso contrario devuelve false. 
+El operador logico || equivale a "or" ("o"),  este retorna true si alguna o todas de las expresiones unidas por este operador son verdaderas, devolvera false si todas las expresiones son falsas. El operador logico !,
+not ("no"), devolverá el valor booleano opuesto de lo que se le pasa.
